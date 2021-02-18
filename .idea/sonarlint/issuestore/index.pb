@@ -1,0 +1,29 @@
+
+>
+mandatory1.iml,4/8/48d39b4328960661322e97b914366da71453f8a7
+;
+manifest.mf,1/d/1de71d11845294429b61ea236a5558babc5333cd
+9
+	build.xml,b/d/bdc348bf75801c527f51cdeddc8edf027f7ef35a
+W
+'src/editor/action/DeletePrevAction.java,1/d/1d4efc75afd532519c3b241495e84602680e00c9
+W
+'src/editor/action/DeleteNextAction.java,7/7/77ce8ea45ca1ff9b706967896d73456affb3a2c5
+S
+#src/editor/action/InsertAction.java,e/9/e9ee543f67be884591a2157d12ab5202be84e5a4
+P
+ src/editor/DoublyLinkedList.java,a/f/afc54380b3c880d0d5cf8bed24f430f3905e36ee
+W
+'src/editor/action/DeleteLineAction.java,b/9/b968440d782969ae11341bcb18db5c8d9e2f0d62
+W
+'src/editor/action/InsertLineaction.java,a/9/a9fb8f549874632a3b89c030157f8c9d18c35711
+S
+#src/editor/action/EditorAction.java,c/b/cbc5e21c3c3187502ac02b1337d20cdfee86f0c1
+H
+src/editor/Document.java,8/2/825c5d2c11b367e659cc35b86e5ccd2d5ff7334c
+U
+%src/editor/action/ArrowKeyAction.java,4/1/4180f5e9b6c0f185cf261d664168376e51a7eb79
+F
+src/editor/Editor.java,2/5/25a12cc4411ca384a29966c5ccda5434fd4930b4
+X
+(src/editor/display/CharacterDisplay.java,d/4/d4a09b3fec23c261e26aebcc8188d5b0db347b94

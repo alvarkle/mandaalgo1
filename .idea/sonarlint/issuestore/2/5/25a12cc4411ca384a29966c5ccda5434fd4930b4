@@ -1,0 +1,12 @@
+
+P
+java:S3252Q":Use static access with "java.awt.Window" for "getWindows".(È¥Ðü
+{
+java:S11305"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(®ËøÊ
+Q	java:S110 "<This class has 6 parents which is greater than 5 authorized.(†ùƒû
+G
+java:S19483"%Make "doc" transient or serializable.(Ä¹¿®ùÿÿÿÿ8â¦¸§û.
+a
+java:S1192"KDefine a constant instead of duplicating this literal "moveCursor" 4 times.(¶ý¥¬
+H
+java:S1135&"2Complete the task associated to this TODO comment.(ÌûŽû

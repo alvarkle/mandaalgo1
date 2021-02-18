@@ -1,0 +1,7 @@
+
+C	java:S131""Add a default case to this switch.(Æóõµıÿÿÿÿ8¤™ß©û.
+m	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ı¤âÎûÿÿÿÿ8åñ©û.
+X	java:S125-"<This block of commented-out lines of code should be removed.(ÃÁÒÊ8áâ£§û.
+h	java:S128 "LEnd this switch case with an unconditional break, return or throw statement.(µö³¿8ü”ä©û.
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(°û³18™Éı©û.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(â•¸ÿ8™Éı©û.
